@@ -1,0 +1,7 @@
+body {
+  font-size: clamp(16px, 2vw, 24px);
+  background-color: #0b0652;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
